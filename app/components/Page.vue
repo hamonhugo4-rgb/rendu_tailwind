@@ -2,7 +2,7 @@
   <div class="min-h-0 flex-1 overflow-y-auto">
     <Header />
     <div
-      class="grid grid-cols-[repeat(auto-fill,minmax(260px,1fr))] items-stretch gap-3 p-3 md:gap-4 md:p-4"
+      class="grid grid-cols-1 items-stretch gap-3 p-3 md:gap-4 md:p-4 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4"
     >
       <CreateCatalogCard />
 

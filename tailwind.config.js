@@ -9,6 +9,7 @@ export default {
       colors: {
         primary: '#463ADD',
         secondary: '#EEF1FF',
+        magenta: '#FF00FB',
         'gray-500': '#F0F0F3',
       },
 

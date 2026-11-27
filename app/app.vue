@@ -1,8 +1,11 @@
+
+
 <template>
-  <div>
+  <div >
     <NuxtRouteAnnouncer />
-    <h1 class="bg-red-500">
-      test
-    </h1>
+    <main class="flex h-screen flex-col md:flex-row">
+      <Menu />
+      <Page />
+    </main>
   </div>
 </template>

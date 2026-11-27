@@ -11,11 +11,7 @@
         aria-label="Catalog options"
         class="grid size-6 shrink-0 place-items-center rounded text-gray-400 hover:bg-gray-100"
       >
-        <svg viewBox="0 0 16 16" class="size-4" fill="currentColor" aria-hidden="true">
-          <circle cx="3" cy="8" r="1.1" />
-          <circle cx="8" cy="8" r="1.1" />
-          <circle cx="13" cy="8" r="1.1" />
-        </svg>
+        <img src="/square-plus.png" alt="" class="size-4 brightness-0 invert md:size-5" />
       </button>
     </header>
 
